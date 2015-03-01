@@ -1,0 +1,78 @@
+body{
+    width: 500px;
+    background-color: black;
+    font-family: Raleway;
+}
+a{
+    text-decoration: none;
+}
+.mainContainer{
+
+}
+
+.logoContainer{
+    float: left;
+    width: 270px;
+    height: 370px;
+    background-color:  rgb(173, 173, 173);
+    border-radius: 0px;
+    /* border: 10px solid rgb(52, 73, 94);*/
+}
+    .logoContainer img{
+        width:100%;
+    }
+    .logoContainer .name{
+       text-align: center;
+       font-size: 60px;
+        font-weight: bolder;
+       margin-top: 10px;
+    }
+.linkContainer{
+
+}
+.linkBox{
+    position: absolute;
+    height: 350px;
+    background-color: gray;
+    margin-left: 270px;
+    padding: 10px;
+    width: 220px;
+    
+}
+    .linkBox a{
+        color: white;
+    }
+    .start{
+        float: left;
+        margin-left: 0px;
+        margin-top: 40px;
+        width: 220px;
+        background-color: rgb(0, 0, 0);
+        height: 75px;
+        text-align: center;
+    }
+        .start a{
+            font-size: 60px;
+        }
+    .sideLinks{
+    
+    }
+        .sideLinks div{
+            width: 70%;
+            height: 40px;
+            float: left;
+            background-color:  rgb(69, 69, 69);
+            margin-left: 15%;
+            margin-top: 20px;
+            text-align: center;
+            font-size: 30px;
+        }
+        .sideLinks .help{
+
+        }
+        .sideLinks .options{
+        
+        }
+        .sideLinks .about{
+        
+        }

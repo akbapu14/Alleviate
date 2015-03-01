@@ -1,0 +1,25 @@
+{
+  "main": "html/menu.html",
+  "name": "alleviate",
+  "description": "Alleviate",
+  "version": "1.0",
+  "keywords": [ "demo", "alleviate" ],
+  "window": {
+    "title": "Alleviate",
+    "icon": "images/logo.png",
+    "toolbar": false,
+    "frame": false,
+    "width": 525,
+    "height": 385,
+    "position": "mouse",
+    "min_width": 100,
+    "min_height": 100,
+    "max_width": 700,
+    "max_height": 700,
+    "always-on-top": false,
+    "transparent": false
+  },
+  "webkit": {
+    "plugin": true
+  }
+}
