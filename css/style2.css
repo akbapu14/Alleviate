@@ -1,0 +1,65 @@
+body{
+    width: 500px;
+    background-color: gray;
+    font-family: Raleway;
+}
+.visualizer{
+    width: 500px;
+    height: 200px;
+}
+iframe{
+    width: 500px;
+    height: 190px;
+}
+.instructions{
+    width: 400px;
+    height: 210px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.invisible{
+    display: none;
+}
+.half{
+    width: 50%;
+    float: left;
+    margin-bottom: 10px;
+}
+.label {
+    float: left;
+    width: 51%;
+    
+}
+.display {
+    float: left;
+    width: 49%;
+    
+}
+.column{
+    font-size: 20px;
+    font-weight: bolder;
+}
+.handAngle{
+    width: 51%;
+    float: left;
+}
+.link{
+    text-align: center;
+}
+.back a{
+    background-color: black;
+    padding: 5px;
+    font-size: 30px;
+    font-weight: bolder;
+}
+#main{
+    background-color: rgb(173, 173, 173);
+    padding: 5px;
+    height: 200px;
+}
+.visualizer{
+    width: 500px;
+    height: 200px;
+}
