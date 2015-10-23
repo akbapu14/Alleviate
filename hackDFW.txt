@@ -1,11 +1,3 @@
-smuutdunt1969
-
-Application:
-show values
-toolbar
-image (to compare)
-visualizer (to show current hand position)
-
 tasks:
 take two snapshots for each variable (range)
 get vars
