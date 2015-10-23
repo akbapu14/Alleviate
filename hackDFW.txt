@@ -1,5 +1,3 @@
-smuutdunt1969
-
 Application:
 show values
 toolbar
